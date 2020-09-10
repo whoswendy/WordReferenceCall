@@ -1,6 +1,6 @@
 WordRef
 
-
+API Endpoint that extracts translation info (conjugation tables) from WordReference.com
 All information extracted credits to WordReference.com
 
 This is a flask app, to run the app you would need to have python3 and flask installed.
