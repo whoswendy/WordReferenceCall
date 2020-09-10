@@ -9,7 +9,7 @@ Also, would need the following python modules:
 
 - requests
 - bs4
-
+- lxml
 
 To run app: 
     
@@ -17,7 +17,7 @@ To run app:
     
     Go to directory 
     
-    Python3 WordRefScrape.py
+    python WordRefScrape.py
     
     Open browser and go to localhost (prob 5000)
     
